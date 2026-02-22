@@ -11,7 +11,6 @@ I am a developer and researcher focused on building intelligent systems that sol
 
 - 🔭 **I'm currently working on:** *ECG Arrhythmia Detection System: A Hybrid Deep Learning Approach for Clinical Decision Support*
 - 👯 **I'm looking to collaborate on:** Open Source AI Agents & Medical Imaging Research
-- 💬 **Ask me about:** Python, RAG Pipelines, Computer Vision, and IoT Sensors
 - ⚡ **Fun fact:** I've built tech across three completely different domains: a concrete humidity sensor, an NFT marketplace, and an AI recruitment bot.
 
 ---
